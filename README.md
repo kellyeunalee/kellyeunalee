@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi, I'm Kellyyeunalee. 👋 
+
+💬<br>
+If you want to contact me, please leave me a message.<br>
+
+## Interest
+- Machine learning
+- Feature embedding
+- NLP
+- Graph Neural Network
+- RecSys
+
+
+```
+
+```
 
 <!--
 **kellyeunalee/kellyeunalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
