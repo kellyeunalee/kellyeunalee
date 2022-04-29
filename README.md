@@ -1,4 +1,4 @@
-### Hi, I'm Kellyyeunalee. 👋 
+### Hi, I'm Kelly Lee. 👋 
 
 💬<br>
 If you want to contact me, please leave me a message.<br>
