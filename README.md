@@ -4,11 +4,11 @@
 If you want to contact me, please leave me a message.<br>
 
 ## Interest
-- Machine learning
-- Feature embedding
-- NLP
-- Graph Neural Network
-- RecSys
+- 
+- 
+- 
+- 
+- 
 
 
 ```
