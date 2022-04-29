@@ -4,9 +4,9 @@
 If you want to contact me, please leave me a message.<br>
 
 ## Interest
-- 
-- 
-- 
+- Deep Learning
+- AutoML
+- NAS
 - 
 - 
 
