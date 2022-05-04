@@ -8,7 +8,7 @@ If you want to contact me, please leave me a message.<br>
 - AutoML
 - NAS
 - XAI
-- 
+- 3D CNN
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kellyeunalee/)](https://www.linkedin.com/in/kellyeunalee/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCtnmH9KaAfeCAMhXW4R-uSg)](https://www.youtube.com/channel/UCtnmH9KaAfeCAMhXW4R-uSg) 
